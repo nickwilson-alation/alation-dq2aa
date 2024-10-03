@@ -20,7 +20,8 @@ This script fetches data from the Alation Data Quality API and loads it into a S
 - [Configuration](#configuration)
 - [Snowflake Table Setup](#snowflake-table-setup)
 - [Running the Script](#running-the-script)
-- [License](#license)
+- [Script Overview](#script-overview)
+- [Disclaimer](#disclaimer)
 
 ---
 
